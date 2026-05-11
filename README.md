@@ -12,7 +12,7 @@ Bu proje, yüksek hassasiyetli nesne tespiti için tasarlanmış, gömülü sist
 
 ## 🛠️ Teknik Mimari
 
-### 🧠 Mikrodenetleyici Seviyesi (STM32)
+### 🧠 Mikrodenetleyici Seviyesi (STM32 Nucleo-F334R8)
 * **Hassas Zamanlama:** `TIM1` timer'ı kullanılarak mikrosaniye seviyesinde ultrasonik tetikleme (Trigger) ve yankı (Echo) okuma.
 * **PWM Kontrolü:** `TIM2` birimi üzerinden 50Hz frekansında, 0.5ms-2.5ms arası *Duty Cycle* ile yüksek çözünürlüklü servo konumlandırma.
 * **Hata Yönetimi:** Sensörlerden sinyal gelmemesi durumunda işlemcinin kilitlenmesini önleyen **Timeout ve Watchdog** mantığına sahip algoritmalar.
