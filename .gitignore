@@ -1,0 +1,12 @@
+build
+mx.scratch
+!.settings
+/Debug/
+/Release/
+bin/
+obj/
+*.elf
+*.map
+*.list
+.vscode
+cmake
