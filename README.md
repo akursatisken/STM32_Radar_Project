@@ -62,6 +62,15 @@ Projenin sorunsuz çalışması için aşağıdaki adımları sırasıyla uygula
 2.  Ardından Processing IDE üzerinden "Run" butonuna basarak görsel arayüzü başlatın.
 3.  Ekranda yeşil tarama çizgisinin (Sweep Hand) servo ile senkronize hareket ettiğini ve nesne algılandığında renkli ışınların oluştuğunu göreceksiniz.
 
+## 📺 Demo
+![Radar Çalışma Anı](Media/demo_gif.webp)
+![Radar](Media/Image1.jpeg)
+![Radar](Media/Image3.jpeg)
+![Radar](Media/Image4.jpeg)
+![Interface](Media/Processing_Interface.png)
+![Schema](Media/Schema.png)
+
+
 ---
 
 ## 📂 Proje Yapısı
