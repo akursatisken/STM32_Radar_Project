@@ -2,7 +2,7 @@
 > **STM32-based Real-Time Object Detection & Visualization Project**
 
 ![GitHub top language](https://img.shields.io/github/languages/top/akursatisken/STM32_Radar_Project?color=blue&style=for-the-badge)
-![GitHub hardware](https://img.shields.io/badge/Hardware-STM32 Nucleo--F334R8-orange?style=for-the-badge)
+![GitHub hardware](https://img.shields.io/badge/Hardware-STM32Nucleo--F334R8-orange?style=for-the-badge)
 ![GitHub status](https://img.shields.io/badge/Status-Completed-green?style=for-the-badge)
 
 ## 📖 Genel Bakış
